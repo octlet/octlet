@@ -13,7 +13,7 @@ i discovered cybersecurity in 2014 through movies, videos, and online communitie
 
 ## currently
 
-working on **velum**, an open source ai chat without personal identities.
+working on **[velum](https://github.com/velum-ai)**, an open source ai chat without personal identities.
 
 ---
 
@@ -21,21 +21,21 @@ working on **velum**, an open source ai chat without personal identities.
 
 ### systems & web developer
 
-i build websites, deploy and manage linux infrastructure, host email services, automate deployments, and help clients build and maintain reliable systems.
+i design and build websites, deploy and manage linux infrastructure, host email services, build self-hosted platforms, automate deployments, and help individuals and businesses run reliable systems.
 
 ### cybersecurity instructor
 
-i teach cybersecurity, privacy, and online safety to beginners, helping them understand common threats, improve their digital privacy, and make better security decisions.
+i teach cybersecurity fundamentals, online privacy, and digital security to people who are new to the field. i also help people improve their opsec, reduce their digital footprint, and better understand the technologies they use every day.
 
 ---
 
 ## projects
 
-### dlnator
+### [dlnator](https://github.com/octlet/dlnator)
 
 a self-hosted media downloader that collects content from supported platforms, organizes metadata, and builds a clean offline media library.
 
-### sensetheair
+### [sensetheair](https://github.com/octlet/sensetheair)
 
 a script to automate wi-fi pentesting tasks using the aircrack-ng suite for faster access point testing.
 
@@ -50,17 +50,17 @@ a script to automate wi-fi pentesting tasks using the aircrack-ng suite for fast
 
 ## outside of tech
 
-outside of work, i enjoy travelling, hiking, camping, photography, gaming, and watching films and tv shows.
+outside of work, i enjoy travelling, hiking, trekking, camping, photography, gaming, and watching films and tv shows.
 
 ---
 
 ## contact
 
 website  
-**https://aditya.rocks**
+**[aditya.rocks](https://aditya.rocks)**
 
 email  
-**hello@aditya.rocks**
+**[hello@aditya.rocks](mailto:hello@aditya.rocks)**
 
 github  
-**https://github.com/octlet**
+**[octlet](https://github.com/octlet)**
