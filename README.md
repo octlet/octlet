@@ -1,43 +1,66 @@
-<p align="left">
-Hi! I'm into Linux, FOSS, privacy, security, and infrastructure, and I've been using Linux since 2016. Most of what I do revolves around self-hosted systems, automation, networking, and security. I’m especially interested in threat modeling, OPSEC, and understanding how things work under the hood.
-</p>
-
-<h2 align="left">Areas of Interest</h2>
+# octlet
 
 <p align="left">
-privacy & OPSEC • systems & networking • self-hosting • offensive security • web technologies
+hi, i'm aditya.
+
+my interest in computers started when i was a kid. i spent most of my time playing games, installing software, changing settings, taking hardware apart, and occasionally breaking things just to understand how they worked.
+
+i discovered cybersecurity in 2014 through movies, videos, and online communities. what began as curiosity about hacking gradually turned into an interest in privacy, digital security, opsec, and osint. over the years i picked up linux, networking, system administration, web development, and self-hosting, which eventually became part of my day-to-day work.
+
 </p>
 
-<h2 align="left">What I work with</h2>
+---
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/freebsd/AB2B28" height="40" alt="freebsd" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma" />
-</p>
+## currently
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="36" alt="wireshark" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="36" alt="burp suite" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="36" alt="metasploit" />
-</p>
+working on **velum**, an open source ai chat without personal identities.
+
+---
+
+## work
+
+### systems & web developer
+
+i build websites, deploy and manage linux infrastructure, host email services, automate deployments, and help clients build and maintain reliable systems.
+
+### cybersecurity instructor
+
+i teach cybersecurity, privacy, and online safety to beginners, helping them understand common threats, improve their digital privacy, and make better security decisions.
+
+---
+
+## projects
+
+### dlnator
+
+a self-hosted media downloader that collects content from supported platforms, organizes metadata, and builds a clean offline media library.
+
+### sensetheair
+
+a script to automate wi-fi pentesting tasks using the aircrack-ng suite for faster access point testing.
+
+---
+
+## certifications
+
+- google cybersecurity professional certificate _(in progress)_
+- comptia security+ _(in progress)_
+
+---
+
+## outside of tech
+
+outside of work, i enjoy travelling, hiking, camping, photography, gaming, and watching films and tv shows.
+
+---
+
+## contact
+
+website  
+**https://aditya.rocks**
+
+email  
+**hello@aditya.rocks**
+
+github  
+**https://github.com/octlet**
